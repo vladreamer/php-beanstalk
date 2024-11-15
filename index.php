@@ -9,7 +9,7 @@
 <img src="devops.png" width=500>
 
 <?php
-echo '<p style="color: gold">
+echo '<p style="color: purple">
 This is AWS Elastic Beanstalk WebServer with PHP App!!!</p>';
 echo '<br>Server IP:'.$_SERVER['SERVER_ADDR'];
 ?>
