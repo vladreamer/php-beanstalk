@@ -5,7 +5,7 @@
 <BODY bgcolor=beige>
 <CENTER>
 <br><br><br><br>
-<font color=green><h1>Hi everybody!</h1></font>
+<font color=green><h1>Hi everyone!</h1></font>
 <img src="devops.png" width=500>
 
 <?php
